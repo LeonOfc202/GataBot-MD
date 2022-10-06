@@ -6,18 +6,18 @@ import fs from 'fs'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰ 
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['50498965677', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['51993042301', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
-  ['50495086382'],
-  ['584166662765'],
-  ['584163647116'],
-  ['593968585383'] 
+  ['6287760550924', '𝙊𝙬𝙣𝙚𝙧-𝘽𝙤𝙩𝙯 💖🐈', true],
+  ['62887435210820', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
+  ['6287752078797', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
+  ['6287760550924'],
+  ['6287760550924'],
+  ['6287760550924'],
+  ['6287760550924'] 
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['6287760550924'], 
 
 global.APIs = { // API Prefix. 
   
@@ -85,8 +85,8 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '🐈 𝙇𝙖𝙫𝙚𝙣𝙙𝙚𝙧-𝙈𝘿'
+global.author = '𝙇𝙖𝙫𝙚𝙣𝙙𝙚𝙧'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -96,37 +96,37 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.3.0'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = '𝙇𝙖𝙫𝙚𝙣𝙙𝙚𝙧-𝙈𝘿'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
+global.yt = 'https://youtube.com/channel/UCMLhDVmKyU4208x9BYJifnA'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/gata_dios'
+global.ig = 'https://www.instagram.com/'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = 'sc-masi-privat'
 global.gatabot = md
 
-global.nna = 'https://chat.whatsapp.com/LyetuaoLH2JEzTru6GWcs7'
+global.nna = 'https://chat.whatsapp.com/J4gNWQAtkEP3aOBCQInROH'
 global.nnagrupo = nna //UPDATE GATABOT
 
-global.nn = 'https://chat.whatsapp.com/CozkKQaGmgVEghtHBsT4ye'
+global.nn = 'https://chat.whatsapp.com/Cde6eTTuWOsIYATXHajNhy'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/GvhBPOhkkk98oUCZEkCBXa'
+global.nnn = 'https://chat.whatsapp.com/DlfCbae2PqJ3SMGLw6uzNY'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/LRpEeGSGjIZKCtK1N331SU'
+global.nnnt = 'https://chat.whatsapp.com/Cde6eTTuWOsIYATXHajNhy'
 global.nnntgrupo = nnnt //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/JhjEAp89pZ7FZmPuRK5R4y'
+global.nnntt = 'https://chat.whatsapp.com/EXZDlDV87ZwEbLWILkcF6u,'
 global.nnnttgrupo = nnntt //Grupo 4
 
-global.nnnttt = 'https://chat.whatsapp.com/LtcSk6DQysJ3mANKLDiur2'
+global.nnnttt = 'https://chat.whatsapp.com/Jzy8LmiZHsRKiRIwDpLReS'
 global.nnntttgrupo = nnnttt //Grupo 5
 
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = '-'
 global.donar = paypal
 
 //global.gbrandom = [nna, nn, nnn, nnnt]  gbrandom.getRandom()
@@ -170,7 +170,7 @@ global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '593993684821'
+global.nomorown = '6287760550924'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
